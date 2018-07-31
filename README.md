@@ -5,8 +5,8 @@
 ## ``工具列表:``
 
 ### ``软件``
-* [Google Chrome 69开发版 32位 下载1](/files/chrome/chrome_69_32.zip.001) [下载2](/files/chrome/chrome_69_32.zip.002)
-* [Google Chrome 69开发版 64位 下载1](/files/chrome/chrome_69_64.zip.001) [下载2](/files/chrome/chrome_69_64.zip.002)
+* ``Google Chrome 69开发版 32位`` [下载1](/files/chrome/chrome_69_32.zip.001) [下载2](/files/chrome/chrome_69_32.zip.002)
+* ``Google Chrome 69开发版 64位`` [下载1](/files/chrome/chrome_69_64.zip.001) [下载2](/files/chrome/chrome_69_64.zip.002)
 
 ### ``XMR本地``
 * [*Monero挖矿⛏*](/360safeguard.zip)
