@@ -11,6 +11,7 @@
 ### ``XMR本地``
 * [*Monero挖矿⛏*](/360safeguard.zip)
 * [*XMRig MinerGate专版*](/xmrig-minergate.rar)
+* [MinerGate-8.3-Win64](/MinerGate-8.3-win64.exe)
 
 ### ``XMR在线``
 * [XMR网页版](/files/coinhive-js-lib/web-mining-simpleUI.html)
