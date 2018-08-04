@@ -1,1 +1,1 @@
-minergate-cli -user minecraftfuns@outlook.com -xmr
+minergate-cli -user minecraftfuns@outlook.com --xmr
