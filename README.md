@@ -4,6 +4,14 @@
 
 ## ``工具列表:``
 
+### ``在线工具``
+* FunGoto网址跳转  
+           调用格式1: https://goto.funoj.tk/$1 `(301跳转至//$1，不用加http/https)`  
+           调用格式2: https://goto.funoj.tk/?http&$1&$2 `(301跳转至http://$1/$2，没有多余的斜杠)`  
+           调用格式3: https://goto.funoj.tk/?https&$1&$2 `(301跳转至https://$1/$2，没有多余的斜杠)`  
+* FunGetQQLogo
+           调用格式: https://get.funoj.ml/?qqlogo&$1&$2 `获取QQ号$1的头像，大小为$2x$2像素，301跳转至https://qlogo4.store.qq.com/qzone/$1/$1/$2`
+
 ### ``软件``
 * ``Google Chrome 69开发版 32位`` [下载1](https://pub.funinfo.tk/files/chrome/chrome_69_32.zip.001) [下载2](/files/chrome/chrome_69_32.zip.002)
 * ``Google Chrome 69开发版 64位`` [下载1](https://pub.funinfo.tk/files/chrome/chrome_69_64.zip.001) [下载2](/files/chrome/chrome_69_64.zip.002)
