@@ -13,6 +13,7 @@
 * [*XMRig MinerGate专版*](https://pub.funinfo.tk/xmrig-minergate.rar)
 * [MinerGate-8.3-Win64-GUI](https://pub.funinfo.tk/MinerGate-8.3-win64.exe)
 * [MinerGate-8.3-Win32-GUI](https://pub.funinfo.tk/MinerGate-8.3-win32.exe)
+* `MinerGate CLI for Windows命令行` [脚本下载](https://pub.funinfo.tk/run.bat)
 * [MinerGate-8.2-Win64-CLI](https://pub.funinfo.tk/MinerGate-cli-8.2-win64.zip)
 * [MinerGate-8.2-Win32-CLI](https://pub.funinfo.tk/MinerGate-cli-8.2-win32.zip)
 * [MinerGate-8.3-Mac](https://pub.funinfo.tk/MinerGate-8.3-Mac.dmg)
