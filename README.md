@@ -28,6 +28,7 @@
 * [MinerGate-8.3-Deb](https://pub.funinfo.tk/minergate-8.3.deb)
 * [MinerGate-8.1-Rpm](https://pub.funinfo.tk/minergate-8.1.rpm)
 * `MinerGate-2.3.5-Android(Google Play Official)` [Pack 1](https://pub.funinfo.tk/com.minergate.miner_2018-05-31-2.3.5-GooglePlayOfficial.zip.001) [Pack 2](https://pub.funinfo.tk/com.minergate.miner_2018-05-31-2.3.5-GooglePlayOfficial.zip.002) `建议使用ZArchiver解压`
+* [MinerGate-2.6-Android(Unofficial)](https://pub.funinfo.tk/MinerGate2.6.zip) `ZIP压缩包，Cloudflare加速下载`
 * [MinerGate-2.6-Android(Unofficial)](https://files.lolico.moe/%E5%AE%89%E5%8D%93/MinerGate2.6.apk) `[Warn: ExternalLink]此文件不属于本站，可能出现无法访问的情况`
 
 ### ``XMR在线``
